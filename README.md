@@ -10,7 +10,8 @@ It was built as my bachelor's degree project and later modernised and optimised.
 
 **Home page**: doctor search, specialities, and the next free slot for each doctor
 
-![Home page](docs/screenshots/home.png)
+![Home page](docs/screenshots/sahti-thumbnail-dark.png)
+![Home page](docs/screenshots/Sahti.png)
 
 **Doctor dashboard**: today's appointments, upcoming ones, history and monthly statistics
 
